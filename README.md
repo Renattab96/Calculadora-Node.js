@@ -1,3 +1,3 @@
 # Calculadora-Node.js
-# Calculadora-Node.js
+Pruebas de conocimientos basicos en NODEJS
  
